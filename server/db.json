@@ -1,0 +1,62 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "song": "Ocean Avenue",
+      "artist": "Yellowcard",
+      "album": "Ocean Avenue",
+      "year": 2003
+    },
+    {
+      "song": "Hit That",
+      "artist": "Offspring",
+      "album": "Splinter",
+      "year": "2004",
+      "id": "2"
+    },
+    {
+      "song": "Pies descalzos",
+      "artist": "Shakira",
+      "album": "Pies descalzos",
+      "year": "1995",
+      "id": "64d3"
+    },
+    {
+      "song": "American Idiot",
+      "artist": "Green Day",
+      "album": "American Idiot2",
+      "year": "2024",
+      "id": "6def"
+    },
+    {
+      "id": "3d45",
+      "song": "dfasdfasdf",
+      "artist": "asdfasdf",
+      "album": "asdfasdf",
+      "year": "324234324"
+    },
+    {
+      "id": "2a7d",
+      "song": "asdfawsdrfa",
+      "artist": "werwerqwer",
+      "album": "qwerqwer",
+      "year": "34234324234"
+    },
+    {
+      "id": "b414",
+      "song": "sdfasdfa",
+      "artist": "asdfasdf",
+      "album": "asdfasdf",
+      "year": "345234234"
+    },
+    {
+      "mp3": "blob:http://127.0.0.1:5500/b53df4b7-af99-402b-a68e-521ed72b3c5b",
+      "duration": "0.20",
+      "song": "gana",
+      "artist": "",
+      "album": "",
+      "year": "2025",
+      "id": "2393"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous" />
+  <link href="./src/style.css" rel="stylesheet" />
+  <title>Music Inventory</title>
+</head>
+<body>
+  <main>
+    <div class="content__table">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>MP3</th>
+            <th>Duración</th>
+            <th>Canción</th>
+            <th>Artista</th>
+            <th>Álbum</th>
+            <th>Año</th>
+            <th></th>
+            <th>
+              <button id="btnAdd" class="btn btn-link" type="button" onclick="tracks.printmodal('create')">
+                <i class="bi bi-file-earmark-plus"></i>
+              </button>
+            </th>
+          </tr>
+        </thead>
+        <tbody class="tbody"></tbody>
+      </table>
+    </div>
+    <button id="btnStart" onclick="tracks.getAllSongs()">VER TODAS TUS CANCIONES</button>
+    <section id="container__modal"></section>
+  </main>
+  <script src="./src/songsInventory.js"></script>
+</body>
+</html>

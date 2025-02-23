@@ -1,11 +1,13 @@
 {
   "songs": [
     {
-      "id": "1",
+      "mp3": "blob:http://127.0.0.1:5500/f641a347-6e40-4c14-b4eb-f3fbf2f184da",
+      "duration": "3.18",
       "song": "Ocean Avenue",
       "artist": "Yellowcard",
       "album": "Ocean Avenue",
-      "year": 2003
+      "year": "2003",
+      "id": "1"
     },
     {
       "song": "Hit That",

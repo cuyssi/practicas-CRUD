@@ -1,19 +1,20 @@
 {
-  "name": "repro",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "api": "json-server --watch db.json --port 3000",
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "json-server": "^1.0.0-beta.3",
-    "multer": "^1.4.5-lts.1"
-  },
-  "description": ""
-}
+    "name": "repro",
+    "version": "1.0.0",
+    "main": "server.js",  
+    "scripts": {
+      "api": "json-server --watch db.json --port 3000",
+      "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.21.2",
+      "json-server": "^1.0.0-beta.3",
+      "multer": "^1.4.5-lts.1"
+    },
+    "description": ""
+  }
+  

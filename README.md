@@ -51,6 +51,15 @@ Este proyecto es una práctica para reforzar los conceptos de **CRUD** (Create, 
 Este proyecto es una práctica personal, pero cualquier sugerencia o mejora es bienvenida. Puedes hacer un **fork** del repositorio y probar mejoras.
 
 ---
+📫 Cómo contactarme
+
+- Correo: [[cuyssi@hotmail.com](mailto:cuyssi@hotmail.com)]
+- LinkedIn: [Ana] ([https://www.linkedin.com/in/ana-castro-a476b8346/](https://www.linkedin.com/in/ana-castro-a476b8346/))
+---
+Gracias por visitar mi perfil!
+
+Aprender cosas nuevas es mi nueva adicción 🤩  
+¡Siempre abierto a colaborar y aprender juntos! 😊  
 
 📌 **Nota:** Este proyecto es experimental y aún está en desarrollo, por lo que algunas funciones pueden no estar completamente implementadas.
 

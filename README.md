@@ -53,7 +53,7 @@ Este proyecto es una práctica personal, pero cualquier sugerencia o mejora es b
 ---
 📫 Cómo contactarme
 
-- Correo: [[cuyssi@hotmail.com](mailto:cuyssi@hotmail.com)]
+- Correo: [[anabcastrolopez@gmail.com](mailto:anabcastrolopez@gmail.com)]
 - LinkedIn: [Ana] ([https://www.linkedin.com/in/ana-castro-a476b8346/](https://www.linkedin.com/in/ana-castro-a476b8346/))
 ---
 Gracias por visitar mi perfil!
